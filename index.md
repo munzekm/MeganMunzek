@@ -2,8 +2,7 @@
 
 
 ### About Me
-Hi My name is Megan Munzek. I am currently a student at Allegheny College with a Major in Computer Science and a minor in Communication Arts. 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome! My name is Megan Munzek. I am currently a student at Allegheny College with a Major in Computer Science and a minor in Communication Arts. 
 
 ```markdown
 Syntax highlighted code block
